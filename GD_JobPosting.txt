@@ -1,0 +1,450 @@
+Advanced Digital Signal Processing (DSP) Systems Engineer
+Job Reference Code: 
+2019-34810
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Scottsdale
+Job Location State: 
+Arizona
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2019-34810
+Job Location USA-AZ-Scottsdale
+Required Clearance TS/SCI with Polygraph, obtainable within reasonable time based on requirements
+Posted Date 2019-01-17
+Category Engineering-Systems
+Employment Full Time
+
+Basic Qualifications 
+
+Bachelor's degree in systems engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 5 years of relevant experience; or Master's degree plus a minimum of 3 years of relevant experience. Agile experience preferred
+
+CLEARANCE REQUIREMENTS:
+Department of Defense TS/SCI with polygraph security clearance is preferred at time of hire. Candidates must be able to obtain a TS/SCI clearance with polygraph within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+#CB
+
+Responsibilities for this Position 
+
+General Dynamics Mission Systems (GDMS) has an immediate opening for an Advanced Digital Signal Processing (DSP) Systems Engineer to join our Digital Signal Processing Center of Excellence. The position provides an opportunity to develop the cutting-edge technology that supports some of our nation's fundamental defense services. GDMS employees work closely with esteemed clients to develop solutions that allow them to carry out high-stakes national security missions.
+
+The selected candidate will work with collaborative teams to create and manage various GDMS and client technologies. In addition to receiving a competitive salary and generous health and personal benefits, the Advanced DSP Systems Engineer will enhance their skill set among a talented and technically accomplished group of colleagues. The employee will also enjoy a flexible work environment where contributions are recognized and rewarded. 
+
+REPRESENTATIVE DUTIES AND TASKS:
+
+Advanced DSP Systems Engineers analyze, design, develop and test DSP algorithms that are implemented in hardware and software for Space-based systems. Your duties would include:
+•	Systems requirements analysis
+•	Signal processing architecture
+•	Algorithm development
+•	Performance verification and validation
+•	Fixed point model conversion for hardware implementation
+•	Software/hardware partitioning and trades
+•	Hardware/software implementation collaboration
+•	Hands-on system performance verification and validation in the lab
+
+KNOWLEDGE SKILLS AND ABILITIES:
+
+Candidates must demonstrate passion for innovation, a sophisticated understanding of various engineering systems and the ability to further advance GDMS technology.
+
+The Advanced DSP Systems Engineers position requires a Bachelor's degree in Electrical Engineering or a specialized area plus a minimum of 5 years of related DSP work experience; or a Master's degree with DSP specialization plus 3 years of related DSP work experience.
+
+Exceptional candidates have work experience of algorithm development for the statistical analysis of signal parameter measurements utilizing techniques from Detection & Estimation Theory, Random Processes Analysis, and Communications and Information Theory. Candidates must also have knowledge of MATLAB for DSP using the related tool boxes. Background with Radar Processing, DSP for mitigating/processing RF effects, Monte Carlo analysis or Phased Array/Beam Forming is a plus. 
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+
+
+
+
+Digital Signal Processing (DSP) Systems Engineer
+Job Reference Code: 
+2018-33485
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Scottsdale
+Job Location State: 
+Arizona
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2018-33485
+Job Location USA-AZ-Scottsdale
+Required Clearance TS/SCI with Polygraph, obtainable within reasonable time based on requirements
+Posted Date 2018-10-17
+Category Engineering-Systems
+Employment College
+
+Basic Qualifications 
+
+Bachelor's degree in Systems Engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 2 years of relevant experience; or Master's degree. 
+
+CLEARANCE REQUIREMENTS:
+
+Candidates must be able to obtain a TS/SCI clearance with Polygraph within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position 
+
+General Dynamics Mission Systems (GDMS) has an immediate opening for a Senior Digital Signal Processing (DSP) Systems Engineer to join our Digital Signal Processing Center of Excellence. The position provides an opportunity to develop the cutting-edge technology that supports some of our nation's fundamental defense services. GDMS employees work closely with esteemed clients to develop solutions that allow them to carry out high-stakes national security missions.
+
+The selected candidate will work with collaborative teams to create and manage various GDMS and client technologies. In addition to receiving a competitive salary and generous health and personal benefits, the Senior DSP Systems Engineer will enhance their skill set among a talented and technically accomplished group of colleagues. The employee will also enjoy a flexible work environment where contributions are recognized and rewarded.
+
+REPRESENTATIVE DUTIES AND TASKS:
+
+Senior DSP Systems Engineers analyze, design, develop and test DSP algorithms that are implemented in hardware and software for Space-based systems. Your duties would include:
+•	Systems requirements analysis
+•	Signal processing architecture
+•	Algorithm development
+•	Performance verification and validation
+•	Fixed point model conversion for hardware implementation
+•	Software/hardware partitioning and trades
+•	Hardware/software implementation collaboration
+•	Hands-on system performance verification and validation in the lab
+
+
+KNOWLEDGE SKILLS AND ABILITIES:
+
+Candidates must demonstrate passion for innovation, a sophisticated understanding of various engineering systems and the ability to further advance GDMS technology.
+
+The Senior DSP Systems Engineers position requires a Bachelor's degree in Systems Engineering or Electrical Engineering or a specialized area plus a minimum of 2 years of related DSP work experience; or a Master's degree with DSP specialization.
+
+Exceptional candidates have work experience or coursework knowledge of algorithm development for the statistical analysis of signal parameter measurements utilizing techniques from Detection & Estimation Theory, Random Processes Analysis, and Communications and Information Theory. Candidates must also have knowledge of MATLAB for DSP using the related tool boxes. Background with Radar Processing, DSP for mitigating/processing RF effects, Monte Carlo analysis or Phased Array/Beam Forming is a plus.
+
+Department of Defense TS/SCI security clearance with polygraph is within 24 months of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+
+ 
+Electrical Engineer
+Job Reference Code: 
+2019-6579
+BUSINESS UNIT: 
+ORDNANCE AND TACTICAL SYSTEMS
+Job Location City: 
+Healdsburg
+Job Location State: 
+California
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+Location: US-CA-Healdsburg | US-CA-Folsom
+
+Requisition ID: 2019-6579
+
+Category: Engineering
+
+Position Type: Full Time
+
+
+Overview
+
+Working under close supervision, this position will assist with circuit analysis and detailed design of electronic assemblies from product inception through final delivery to customer. This position will also assist with writing test procedures, and overseeing testing, including basic preparation and presentation of design review material to customers and peers.
+
+General Dynamics Ordnance & Tactical Systems (GD-OTS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. We partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+Major Position Responsibilities
+•	Collaborate with peers and others in the preparation of schematics, printed wiring boards, and assembly drawings, and assist technicians in building printed wiring assemblies and special test fixtures
+•	Perform electrical engineering tasks related to component selection, circuit noise analysis, packaging concepts, and testing
+•	Perform calculations, circuit simulation, tolerance analyses, and reliability analyses
+•	Assist with documentation in plans, specifications, and reports
+•	Provide technical support to engineers and technicians
+•	Work with technicians to build printed wiring assemblies and special test fixtures
+•	Perform to program schedules established by project engineers or program managers
+•	May perform concept feasibility analyses
+•	Work with others to design or specify test equipment
+
+
+Basic Qualifications
+•	Work well in a team environment
+•	Knowledge of analog and digital circuit design
+•	Experience using test equipment
+•	Strength in technical writing for plans, specifications, procedures, reports
+•	Knowledge of electronic manufacturing techniques
+
+
+Education and/or Experience
+•	BS in Electrical Engineering
+•	1-2 years + of related experience
+
+
+If you require assistance or an accommodation for a disability covered under the Americans with Disabilities Act, please email staffing@gd-ots.com or call: 727-578-8252. Please note this contact information is for those requesting a reasonable accommodation while applying for a job, because of a covered disability. General Dynamics Ordnance and Tactical Systems (GD-OTS) expressly prohibits discrimination or retaliation against an individual who has a disability and/or who requests a reasonable accommodation. GD-OTS is an Equal Opportunity/Affirmative Action Employer - Minorities/Females/Protected Veterans/Disabled. We welcome and encourage diversity in the workforce.
+ 
+Electrical Engineering Intern
+Job Reference Code: 
+2019-34796
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Taunton
+Job Location State: 
+Massachusetts
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2019-34796
+Job Location USA-MA-Taunton
+Required Clearance No clearance
+Posted Date 2019-01-14
+Category Engineering-Systems
+Employment Intern
+
+Basic Qualifications 
+
+Currently pursuing a bachelor's degree in electrical engineering, computer science, computer engineering or a related field. Must have completed at least two full years towards degree program.
+
+Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position 
+
+General Dynamics Mission Systems (GDMS) is seeking a Electrical Engineering Intern to join us in our Taunton, MA location. This is a great opportunity to use and grow your understanding of electrical engineering concepts while learning new skills in Radio Frequency (RF) systems.
+
+As an Electrical Engineering Intern you will be able to dive into specific assignments in support of Warfighter Information Network-Tactical (WIN-T) Increments 2 RF Systems and test activities. You will be able to spend your time diving into specific assignments that have defined performance expectations and deadlines. You'll get to network with new and experienced teammates, one of whom will be assigned as an advocate to provide behind-the-scenes info and answer questions. As part of the team you'll have a role in the systems engineering and design process: requirements analysis, design, development and integration, and internal reviews. You will have the opportunity to put your love of problem solving to work in a team environment.
+
+You'll gain even more experience as you:
+•	Develop and execute test procedures under the supervision of engineers
+•	Collect, analyze and summarize test data
+•	Generate documentation, presentations and reports
+•	Be comfortable working in cross-disciplinary teams in a variety of fields
+•	Interest in Communications Network, RF, Antenna, modems, Line-of-Sight Radios and satellite would be useful
+
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) offers a powerful and robust portfolio of products, services and solutions that help customers successfully execute their missions in today's dynamic environment. With unsurpassed engineering using an open systems approach, General Dynamics Mission Systems solves our customers' most complex challenges while foreseeing future needs.
+
+At GDMS, our employees work in collaborative teams with leading edge technology and the best in the industry to solve tough customer problems while keeping our nation safe. Individuals are empowered to do their best work in an environment that encourages and supports innovative, collaborative and creative thinking. The General Dynamics ethos of honesty, transparency and trust is apparent in the way we work with our colleagues and our customers.
+
+We look forward to you joining our high performance team at GD Mission Systems!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+ 
+Entry-Level Radio Frequency (RF) Engineer
+Job Reference Code: 
+2019-34986
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Scottsdale
+Job Location State: 
+Arizona
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2019-34986
+Job Location USA-AZ-Scottsdale
+Required Clearance 
+Posted Date 2019-01-23
+Category Engineering-RF
+Employment College
+
+Basic Qualifications 
+
+Bachelor's degree in Electrical Engineering or related field and zero to two years of related work experience. Applicants with a masters degree are also eligible. 
+
+Department of Defense TS/SCI security clearance is preferred at time of hire. Candidates must be able to obtain a TS/SCI clearance within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position 
+
+General Dynamics Mission Systems (GDMS), a market leader and technology innovator, is seeking talented professionals to deliver cutting edge solutions to our customers.
+
+GDMS has an immediate opening for an Entry-Level Radio Frequency (RF) Engineer to join our Scottsdale, AZ team. The position provides an opportunity to develop the cutting-edge technology that supports our nation's fundamental defense services. GDMS employees work closely with esteemed clients to develop solutions that allow them to carry out high-stakes national security missions.
+The selected candidate will work with collaborative teams to build and ensure adequate functionality of various GDMS and client technologies. In addition to receiving a competitive salary and generous health and personal benefits, the RF Engineer will enhance their skill set by working among a talented and technically accomplished group of colleagues. The employee will also enjoy a flexible work environment where contributions are recognized and rewarded.
+
+Entry-Level RF Engineers research, design and develop RF and Microwave circuitry for use in information processing hardware as well as various electrical components, mechanisms, materials, circuitry, equipment and processes. In addition to defining the requirements necessary for RF hardware system architecture, you will:
+•	Evaluate system performance, implement test plans and handle design documentation
+•	Be responsible for integrating and interconnecting GDMS hardware units
+•	Be responsible for the design, analysis, schematic capture, layout and test of RF circuits
+
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+ 
+RF Engineering Intern (Paid)
+Job Reference Code: 
+2018-33948
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Scottsdale
+Job Location State: 
+Arizona
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2018-33948
+Job Location USA-AZ-Scottsdale
+Required Clearance 
+Posted Date 2018-11-08
+Category Engineering-RF
+Employment Intern
+
+Basic Qualifications 
+
+Must be enrolled in an accredited degree program in Electrical Engineering or related field with two or more years completed within your program. 
+
+Applicants selected may be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position 
+
+General Dynamics Mission Systems (GDMS), a market leader and technology innovator, is seeking talented professionals to deliver cutting edge solutions to our customers.
+
+(GDMS) has an immediate opening for a hardware intern (Paid) engineer with an emphases on RF & microwave to join our team. This position provides an opportunity to develop the cutting-edge technology that supports some of our nation's fundamental defense services. General Dynamics Mission Systems employees work closely with esteemed clients to develop solutions that allow them to carry out high-stakes national security missions. As a hardware/RF intern (Paid) engineer you will work with collaborative teams to ensure GDMS and client technologies are functioning as efficiently as possible. You will enhance your skill-set by working among a talented and technically accomplished group of colleagues.
+
+Here at GDMS, we are at the cutting edge of software defined radios. A position as a hardware/RF engineering intern (Paid) puts you at the heart of the radio development. It will allow you to see how your skills gained in your education are used to develop radio products for the warfighter. As a member a of a development team, you will see firsthand the diversity of experience available to our employees, observe how GDMS brings a product to life and work with subject matter experts. The internship will allow you to evaluate the type of work you would be afforded while gaining vital experience. This opportunity will expose you to all aspects of the development environment. See what it takes to be a contributing member of a highly skilled development team.
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+ 
+Senior Advanced Digital Signal Processing (DSP) Systems Engineer
+Job Reference Code: 
+2018-32271
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+Scottsdale
+Job Location State: 
+Arizona
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2018-32271
+Job Location USA-AZ-Scottsdale
+Required Clearance TS/SCI with Polygraph, obtainable within reasonable time based on requirements
+Posted Date 2018-08-03
+Category Engineering-Systems
+Employment Full Time
+
+Basic Qualifications 
+
+Bachelor's degree in systems engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 8 years of relevant experience; or Master's degree plus a minimum of 6 years of relevant experience. Agile experience preferred
+
+CLEARANCE REQUIREMENTS:
+Department of Defense TS/SCI with polygraph security clearance is preferred at time of hire. Candidates must be able to obtain a TS/SCI clearance with polygraph within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position 
+
+JOB DESCRIPTION: 
+
+General Dynamics Mission Systems (GDMS) has an immediate opening for a Senior Advanced Digital Signal Processing (DSP) Systems Engineer 3 to join our Digital Signal Processing Center of Excellence. The position provides an opportunity to develop the cutting-edge technology that supports some of our nation's fundamental defense services. GDMS employees work closely with esteemed clients to develop solutions that allow them to carry out high-stakes national security missions. The selected candidate will work with collaborative teams to create and manage various GDMS and client technologies. In addition to receiving a competitive salary and generous health and personal benefits, the Senior Advanced DSP Systems Engineer will enhance their skill set among a talented and technically accomplished group of colleagues. The employee will also enjoy a flexible work environment where contributions are recognized and rewarded. 
+
+REPRESENTATIVE DUTIES AND TASKS:
+
+Senior Advanced DSP Systems Engineers analyze, design, develop and test DSP algorithms that are implemented in hardware and software for Space-based systems. Your duties would include:
+•	Systems requirements analysis
+•	Signal processing architecture
+•	Algorithm development
+•	Performance verification and validation
+•	Fixed point model conversion for hardware implementation
+•	Software/hardware partitioning and trades
+•	Hardware/software implementation collaboration
+•	Hands-on system performance verification and validation in the lab
+
+
+KNOWLEDGE SKILLS AND ABILITIES:
+•	Candidates must demonstrate passion for innovation, a sophisticated understanding of various engineering systems and the ability to further advance GDMS technology.
+•	Exceptional candidates have work experience of algorithm development for the statistical analysis of signal parameter measurements utilizing techniques from Detection & Estimation Theory, Random Processes Analysis, and Communications and Information Theory. Candidates must also have knowledge of MATLAB for DSP using the related tool boxes. Background with Radar Processing, DSP for mitigating/processing RF effects, Monte Carlo analysis or Phased Array/Beam Forming is a plus.
+
+#CJ1
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+ 
+Senior RF/Microwave Design Engineer - Space Hardware
+Job Reference Code: 
+2018-34324
+BUSINESS UNIT: 
+MISSION SYSTEMS
+Job Location City: 
+El Segundo
+Job Location State: 
+California
+Job Location Country: 
+United States of America
+Job Category: 
+Engineering
+Job Description: 
+
+ID 2018-34324
+Job Location USA-CA-El Segundo
+Required Clearance TS/SCI
+Posted Date 2018-12-06
+Category Engineering-RF
+Employment Full Time
+
+Basic Qualifications 
+
+Bachelor's degree in Electrical Engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 5 years of relevant experience; or Master's degree plus a minimum of 3 years of relevant experience
+
+Responsibilities for this Position 
+
+GDMS has an immediate opening for an Senior Radio Frequency (RF) / Microwave Design Engineer. This position provides an opportunity to further advance the cutting-edge technology that supports some of our nation's core defense/intelligence services and systems. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.
+
+Candidates must demonstrate a passion for innovation, a sophisticated understanding of electronic equipment and systems, and the ability to further advance GDMS technology. This position requires the design, development, test, and support of wide band, high dynamic range, low noise, space-based receivers and transmitters. The candidate must be a senior-level design engineer with broad experience in RF and microwave design. The candidate is responsible for end-to-end system analysis and detailed circuit design of modules and hybrids from receive antenna to analog-to-digital converter (ADC) or digital-to-analog converter (DAC) to transmit antenna. Signal intelligence experience is preferred.
+
+Candidates must possess the following knowledge, skills, and abilities: 
+
+Strong RF/Microwave module and circuit design experience specifying, implementing and optimizing circuitry that includes low noise amplifiers, power amplifiers, mixers, filters, phase locked loops, RF switches, analog or step attenuators, and baseband analog circuits. Frequency range experience from baseband to 18GHz required, baseband to 67GHz desired.
+Experience performing cascade analysis of RF/Microwave modules and systems to predict gain, multi-tone intermodulation, noise, and power
+Experience performing frequency planning, spurious analysis and phase noise analysis
+Experience with RF/Microwave design tools such as Agilent ADS, Genesys, Spectrasys, and HFSS
+Must be proficient in the use of RF lab test equipment including Network Analyzer, Spectrum Analyzer, RF Signal Generator, Power Meter, and Oscilloscope
+Proven experience in RF test development and debug
+Understanding of the intricacies of board and ceramic substrate layout issues for high frequency design
+
+Additional Responsibilities
+
+Exercise creative thinking and ideation to advance our business performance.
+Deliver innovative, flexible, integrated solutions to meet customers changing business needs.
+Support and engage in programs, projects and practices behind the GDMS culture and strategy, and comply with all policies and procedures.
+Follow industry and department trends and developments to ensure GDMS services are consistent with, and/or superior to, industry best practices.
+
+
+CLEARANCE REQUIREMENTS:
+
+Department of Defense TS/SCI security clearance is required within 24 months of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Company Overview 
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran
+ 
+
